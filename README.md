@@ -30,6 +30,29 @@ The project utilizes three relational tables. You can find the relationship diag
 * **Peak Demand**: **March** is the busiest month for bookings, and **Sundays** see the highest volume of transactions.
 * **Top Airline**: **Lufthansa** leads in total revenue, while **Air India** dominates passenger loyalty among Indian travelers.
 
+## ❓ Key Business Questions Answered
+The analysis is structured into four phases to address specific business needs:
+
+### Phase 1: Passenger Insights
+* What is the gender distribution of our passenger base?
+* Which top 5 countries contribute the highest number of travelers?
+* What are the primary age demographics (Teens vs. Adults vs. Seniors)?
+
+### Phase 2: Flight & Route Operations
+* Which airlines operate the most flights in our network?
+* What are the top 3 most frequent destination cities?
+* What is the average flight distance across all routes?
+
+### Phase 3: Booking & Revenue Analysis
+* What is the total revenue generated across all bookings?
+* How does ticket pricing compare between Business and Economy classes?
+* Which day of the week sees the highest booking volume?
+
+### Phase 4: Advanced Cross-Data Analysis
+* Which specific airline is generating the highest total revenue?
+* Who are our most loyal passengers (those with 3+ bookings)?
+* Which airline is the preferred choice for passengers traveling from India?
+
 ## 🚀 Business Recommendations
 1. **Expand High-Demand Routes**: Increase flight frequency to top destinations like Doha, Frankfurt, and Singapore.
 2. **Targeted Marketing**: Focus premium marketing efforts on the UK and European markets to maximize Business Class sales.
