@@ -10,7 +10,7 @@ The analysis covers:
 
 ## 📊 Database Schema
 
-![Database Schema](Database_Schema.jpg)
+![Database Schema](Database_Schema.png)
 
 The project utilizes three relational tables. You can find the relationship diagram in the repository.
 * **Passengers**: ID, Name, Age, Gender, Country.
@@ -22,7 +22,7 @@ The project utilizes three relational tables. You can find the relationship diag
 * **Data Visualization**: (Add Power BI or Excel here if you used them for the charts!)
 
 ### 📈 Sample Analysis (SQL)
-![SQL Query Example](path/to/your/screenshot.png)
+![SQL Query Example](SQL Query Example.png)
 
 ## 🔍 Key Insights
 * **Revenue Multiplier**: Business Class generates **4x more revenue** per ticket than Economy, despite lower volume.
