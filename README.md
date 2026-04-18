@@ -22,7 +22,7 @@ The project utilizes three relational tables. You can find the relationship diag
 * **Data Visualization**: (Add Power BI or Excel here if you used them for the charts!)
 
 ### 📈 Sample Analysis (SQL)
-![SQL Query Example](SQL Query Example.png)
+![SQL Query Example](sql_query_example.png)
 
 ## 🔍 Key Insights
 * **Revenue Multiplier**: Business Class generates **4x more revenue** per ticket than Economy, despite lower volume.
