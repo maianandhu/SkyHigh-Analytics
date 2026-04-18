@@ -1,0 +1,51 @@
+flight_id,airline,source_city,destination_city,distance_km
+1,Singapore Airlines,Delhi,Paris,6787
+2,Lufthansa,Paris,Frankfurt,5128
+3,British Airways,Hyderabad,Paris,3271
+4,Lufthansa,Doha,Frankfurt,6239
+5,Qatar Airways,Frankfurt,Mumbai,5920
+6,Qatar Airways,Paris,Hyderabad,3332
+7,Lufthansa,London,Paris,3652
+8,Singapore Airlines,Bangalore,Frankfurt,947
+9,IndiGo,Delhi,Paris,4641
+10,British Airways,Singapore,Doha,1854
+11,Emirates,Mumbai,Doha,2473
+12,Air India,Kolkata,Chennai,4652
+13,Lufthansa,Hyderabad,Frankfurt,3601
+14,Air India,Dubai,Hyderabad,4260
+15,Qatar Airways,Singapore,London,1221
+16,Emirates,Singapore,Doha,1472
+17,Air India,Singapore,Paris,1340
+18,Air India,Dubai,Singapore,5064
+19,British Airways,Doha,Delhi,1244
+20,Lufthansa,Frankfurt,London,2995
+21,IndiGo,Doha,Frankfurt,5862
+22,Emirates,London,Singapore,3476
+23,British Airways,Delhi,Chennai,4222
+24,British Airways,Kolkata,Frankfurt,5577
+25,Lufthansa,Frankfurt,Singapore,5883
+26,Air India,Kolkata,Doha,1298
+27,Air India,London,Hyderabad,3296
+28,British Airways,Kolkata,Paris,2891
+29,Emirates,Doha,Frankfurt,6251
+30,IndiGo,Mumbai,Delhi,4533
+31,Air India,Bangalore,Singapore,2583
+32,IndiGo,Frankfurt,Hyderabad,1489
+33,Qatar Airways,Dubai,Hyderabad,7254
+34,Air India,Hyderabad,Dubai,6702
+35,Lufthansa,Dubai,Delhi,7360
+36,Air India,London,Frankfurt,6825
+37,Lufthansa,Singapore,Doha,5327
+38,Qatar Airways,Doha,Bangalore,535
+39,Singapore Airlines,Doha,Delhi,4045
+40,Singapore Airlines,Frankfurt,Singapore,6898
+41,IndiGo,Bangalore,London,6484
+42,Qatar Airways,Bangalore,Mumbai,5886
+43,Emirates,Frankfurt,London,4629
+44,Singapore Airlines,Dubai,Singapore,6173
+45,Qatar Airways,Hyderabad,Kolkata,3308
+46,British Airways,Chennai,Doha,1592
+47,Singapore Airlines,Bangalore,Singapore,6234
+48,Emirates,Paris,Doha,7406
+49,British Airways,Paris,Doha,3071
+50,Lufthansa,Paris,Doha,2280
