@@ -9,6 +9,9 @@ The analysis covers:
 * **5,000** Individual Bookings
 
 ## 📊 Database Schema
+
+![Database Schema](Database_Schema.jpg)
+
 The project utilizes three relational tables. You can find the relationship diagram in the repository.
 * **Passengers**: ID, Name, Age, Gender, Country.
 * **Flights**: ID, Airline, Source/Destination, Distance.
@@ -17,6 +20,9 @@ The project utilizes three relational tables. You can find the relationship diag
 ## 🛠️ Technologies Used
 * **SQL (MySQL)**: For data extraction, cleaning, and complex joins.
 * **Data Visualization**: (Add Power BI or Excel here if you used them for the charts!)
+
+### 📈 Sample Analysis (SQL)
+![SQL Query Example](path/to/your/screenshot.png)
 
 ## 🔍 Key Insights
 * **Revenue Multiplier**: Business Class generates **4x more revenue** per ticket than Economy, despite lower volume.
