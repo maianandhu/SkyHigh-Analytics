@@ -19,7 +19,7 @@ The project utilizes three relational tables. You can find the relationship diag
 
 ## 🛠️ Technologies Used
 * **SQL (MySQL)**: For data extraction, cleaning, and complex joins.
-* **Data Visualization**: (Add Power BI or Excel here if you used them for the charts!)
+
 
 ### 📈 Sample Analysis (SQL)
 ![SQL Query Example](sql_query_example.png)
